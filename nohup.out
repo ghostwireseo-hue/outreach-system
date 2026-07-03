@@ -398,3 +398,9 @@ Terminated                 pgrep -f "python app.py" > /dev/null
 🛡️ watchdog checking system...
 ⚠️ server down — restarting
 🚀 OPS BRAIN v4 STARTING
+🛡️ watchdog checking system...
+⚠️ server down — restarting
+🚀 OPS BRAIN v4 STARTING
+🛡️ watchdog checking system...
+⚠️ server down — restarting
+🚀 OPS BRAIN v4 STARTING
